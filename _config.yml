@@ -6,29 +6,29 @@ description: > # your text below (remove <br> elements if you don't need line br
   <br><br>
   
   <p>GENERAL SKILLS:</p>
-<ul class="b">
-  <li>Data Visualization</li>
-  <li>Data Preparation</li>
-  <li>OOP Programing (Python)</li>
-  <li>Statistics  (Python)</li>
-  <li>Neural Network (Python)</li>
-  <li>Working with Big Data (Python)</li>
-  <li>Machine Learning (Supervised and 
-    Unsupervised) (Python)</li>
-</ul>
+  <ul class="b">
+    <li>Data Visualization</li>
+    <li>Data Preparation</li>
+    <li>OOP Programing (Python)</li>
+    <li>Statistics  (Python)</li>
+    <li>Neural Network (Python)</li>
+    <li>Working with Big Data (Python)</li>
+    <li>Machine Learning (Supervised and 
+      Unsupervised) (Python)</li>
+  </ul>
   <br><br>
    <br><br>
   <p>TECHNICAL SKILLS:</p>
-<ul class="b">
-  <li>Python (NumPy, Pandas, Scikit-
-    learn)</li>
-  <li>R, SQL (MySQL), Tableau </li>
-  <li>TensorFlow, Keras, Pytorch</li>
-  <li>Big Data manipulation(AWS,   
-    Hadoop, Spark, Hive)</li>
-  <li>HTML and CSS </li>
+  <ul class="b">
+    <li>Python (NumPy, Pandas, Scikit-
+      learn)</li>
+    <li>R, SQL (MySQL), Tableau </li>
+    <li>TensorFlow, Keras, Pytorch</li>
+    <li>Big Data manipulation(AWS,   
+      Hadoop, Spark, Hive)</li>
+    <li>HTML and CSS </li>
 
-</ul>
+  </ul>
 
 
 
