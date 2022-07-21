@@ -5,7 +5,6 @@
 ### Data Science Project
 
 [Using Regression to Predict Revenue for Anime](https://github.com/dhinojosa93/Anime_Revenue_Regression_Data_Science)
-
 <img src="images/download.jfif?raw=true"/>
 
 ---
