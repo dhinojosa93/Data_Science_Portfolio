@@ -2,10 +2,10 @@
 
 ---
 
-### Category Name 1 
+### Data Science Project
 
-[Project 1 Title](/sample_page)
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
+[Using Regression to Predict Revenue for Anime](https://github.com/dhinojosa93/Anime_Revenue_Regression_Data_Science)
+<img src="images/download.jfif?raw=true"/>
 
 ---
 [Project 2 Title](/pdf/sample_presentation.pdf)
