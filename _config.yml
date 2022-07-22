@@ -4,18 +4,7 @@ description: > # your text below (remove <br> elements if you don't need line br
   <br><br>
   From a structural engineering background, I am shifting into the Data Science field to broaden my horizons with the larger picture of how companies thrive. I am committed to help reveal insights for organizations using my technical skills and keen problem-solving instinct. 
   <br><br>
-  <p>GENERAL SKILLS:</p>
-  <ul class="b">
-    <li>Data Visualization</li>
-    <li>Data Preparation</li>
-    <li>OOP Programing (Python)</li>
-    <li>Statistics  (Python)</li>
-    <li>Neural Network (Python)</li>
-    <li>Working with Big Data (Python)</li>
-    <li>Machine Learning (Supervised and 
-      Unsupervised) (Python)</li>
-  </ul>
-  <br><br>
+
   <a href="https://linkedin.com/in/dannyhinojosa/">View My LinkedIn Profile</a> 
   
 theme: jekyll-theme-minimal
