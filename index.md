@@ -8,11 +8,11 @@
 <img src="images/download.jfif?raw=true"/>
 
 ---
-[Project 2 Title](/pdf/sample_presentation.pdf)
+[Concrete Crack Image Recongition(work-in-progress]([/pdf/sample_presentation.pdf](https://github.com/dhinojosa93/Concrete-Crack-Recongition-Phase-1-))
 <img src="images/dummy_thumbnail.jpg?raw=true"/>
 
 ---
-[Project 3 Title](http://example.com/)
+[Credit Score Classification for Credit Cards](https://github.com/dhinojosa93/Credit-Score-Classification)
 <img src="images/dummy_thumbnail.jpg?raw=true"/>
 
 ---
